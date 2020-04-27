@@ -45,12 +45,13 @@ body {
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
+  text-align: center;
 }
 
 #footer #tagfooter {
   padding: 0 0 0 1em;
-  font-weight: normal;
-  font-size: 0.8em;
+  font-weight: bold;
+  font-size: 1em;
 }
 
 #post {
