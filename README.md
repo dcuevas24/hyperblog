@@ -1,4 +1,4 @@
-# hyperblog :tw-1f680:
+# hyperblog
 
 Esto es un ejercicio que realize como practica del [ **curso de Git y GitHub**](https://platzi.com/cursos/git-github/) de Platzi.
 
